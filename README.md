@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**RicardoNagamatsu/RicardoNagamatsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ricardo Pacheco Nagamatsu, sou de São Paulo/Brasil.
 
-Here are some ideas to get you started:
+- Bacharel em Sistemas de Informação.🎓
+- Data Scientist / Python.🥼👨🏻‍💻
+- Entusiasta por ciência de dados. 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Adoro resolver problemas e sempre aprender mais. 🤯🤓
+
+👨‍🚀 Aberto a novos desafios e pronto para enfrentar as mudanças.🧑‍🚀
+
+- 🔭 Atualmente estou buscando uma oportunidade para ingressar nesse fabuloso mundo de dados. 🧑🏻‍💼
+
+###
+- 📫 Como chegar até mim: 👇🏻
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-Ricardo%20Pacheco%20Nagamatsu-0000cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-schell-fernandes/)](https://www.linkedin.com/in/diego-schell-fernandes/) 
+[![Gmail Badge](https://img.shields.io/badge/-ricnagamatsu@gmail.com-6333cc?style=flat-square&logo=Gmail&logoColor=red&link=mailto:diego.schell.f@gmail.com)](mailto:diego.schell.f@gmail.com)
