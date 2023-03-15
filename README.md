@@ -3,14 +3,14 @@
 Meu nome é Ricardo Pacheco Nagamatsu, sou de São Paulo / Brasil
 
 - Bacharel em Sistemas de Informação🎓
-- Data Scientist / Python🥼👨🏻‍💻
+- Data Scientist / Analista de B.I. Pleno / Python🥼👨🏻‍💻
 - Entusiasta por ciência de dados. 💻
 
 Adoro resolver problemas e sempre aprender mais. 🤯🤓
 
 👨‍🚀 Aberto a novos desafios e pronto para enfrentar as mudanças.🧑‍🚀
 
-- 🔭 Atualmente estou buscando uma oportunidade para ingressar nesse fabuloso mundo de dados. 🧑🏻‍💼
+- 🔭 Atualmente explorando esse vasto mundo dos dados. 🧑🏻‍💼
 
 ###
 - 📫 Como chegar até mim: 👇🏻
